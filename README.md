@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # roon-app
 
 ## Project setup
@@ -27,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Quasar
+Roon controller built with Quasar and Electron
+>>>>>>> c0f7ca73dd8a34118dd618df133d895b0733198e
